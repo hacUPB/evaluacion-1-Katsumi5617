@@ -1,27 +1,13 @@
+Evaluacion 1
 
-In this directory, you should write the program `wcat.c` and compile it into
-the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
+Creacion de la evaluacion #1 desde nuestro pc personal usando git y gitbash, donde nos ponian a hacer algunos cambios desde las carpetas descargadas de la evaluacion como wcat.c como tambien desde git como dirtest ademas de agregar la imagen con su respectivo link
 
-After doing so, you can run the tests from this directory by running the
-`test-wcat.sh` script. If all goes well, you will see:
+![imagen text](https://github.com/hacUPB/evaluacion-1-Katsumi5617/blob/main/dirTest/project/todos-los-star-guardian-2022_3840x2160_xtrafondos.com.jpg)
 
-```sh
-prompt> ./test-wcat.sh
-test 1: passed
-test 2: passed
-test 3: passed
-test 4: passed
-test 5: passed
-test 6: passed
-test 7: passed
-prompt>
-```
-
-The `test-wcat.sh` script is just a wrapper for the `run-tests.sh` script in
-the `tester` directory of this repository. This program has a few options; see
-the relevant
-[README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
-for details.
+https://www.google.com/search?client=opera&q=hipervinculo&sourceid=opera&ie=UTF-8&oe=UTF-8https://www.google.com/search?client=opera&q=hipervinculo&sourceid=opera&ie=UTF-8&oe=UTF-8
 
 
-
+Clonar un repositorio: git clone
+Adicionar el archivo wcat.c al STAGE.: git add
+Realizar un commit: git commit -m "Texto"
+Sincronizar con el repositorio remoto.: Git status y luego Git push
